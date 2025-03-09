@@ -46,22 +46,22 @@ Application and container-level policies:
 
 ## Statistics
 
-This repository contains a total of **1,688 policy files** across all categories:
+This repository contains a total of **676 policy files** across all categories:
 
 | Category | File Count |
 |----------|------------|
-| Infrastructure | 293 |
-| Kubernetes | 1,385 |
-| Application | 10 |
+| Infrastructure | 273 |
+| Kubernetes | 385 |
+| Application | 18 |
 
 ### Policy Types Breakdown
 
 | Policy Type | File Count |
 |-------------|------------|
-| YAML policies (Kyverno, etc.) | 1,379 |
+| YAML policies (Kyverno, etc.) | 379 |
 | Rego policies (OPA) | 109 |
-| HCL policies (Sentinel) | 77 |
-| Other policy formats | 123 |
+| HCL policies (Sentinel) | 57 |
+| Other policy formats | 131 |
 
 ## Purpose
 
