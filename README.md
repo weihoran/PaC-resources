@@ -1,6 +1,8 @@
-# Policy as Code (PaC) Templates Collection
+# Policy as Code (PaC) Few-shot Learning Examples
+***Dataset for the paper: Engineering Continuous Compliance in DevOps: Harnessing LLMs for Dynamic Policy Generation
 
-This repository contains a comprehensive collection of Policy as Code (PaC) artifacts from various open source PaC libraries. It serves as a reference for different policy frameworks, patterns, and implementations across various platforms and technologies.
+
+This repository contains a comprehensive collection of Policy as Code (PaC) artifacts from various open-source PaC libraries. It serves as a reference for different policy frameworks, patterns, and implementations across various platforms and technologies.
 
 ## Project Structure
 
